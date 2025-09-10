@@ -8,6 +8,7 @@
 - 📫 How to reach me: **shroyash35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shroyash-shrestha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shroyash shrestha" height="30" width="40" /></a>
   <a href="https://leetcode.com/u/shroyash/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="30" width="40" /></a>
