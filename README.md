@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shroyash Shrestha</h1>
 <h3 align="center">A passionate Java Fullstack Developer from Nepal</h3>
 
-<img align="right" alt="code" width="400" src="https://static.vecteezy.com/system/resources/thumb…while-working-2d-cartoon-animation-free-video.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shroyash&label=Profile%20views&color=0e75b6&style=flat" alt="shroyash" /> </p>
 
