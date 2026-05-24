@@ -88,29 +88,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - Clean Architecture
 - JPA/Hibernate Optimization
 
----
 
-<h3 align="left">LeetCode Stats</h3>
-
-<p align="left">
-
-<img src="https://leetcode.card.workers.dev/shroyash?theme=dark&font=baloo&extension=activity"
-alt="Leetcode Stats"/>
-
-</p>
-
-
-<h3 align="left">🔥 Featured Projects</h3>
-
-- Healthcare Appointment System
-- Spring Boot Microservices
-- Queue Based Workflow Systems
-- Low Level Design Projects
-- REST API Backend Services
-
-
-
-<h3 align="left">💡 Quote</h3>
+<h3 align="left">Quote</h3>
 
 <p align="left">
 Building scalable systems with clean architecture and thoughtful design.
