@@ -77,7 +77,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </table>
 ---
 
-<h3 align="left">📌 Backend Interests</h3>
+<h3 align="left">Backend Interests</h3>
 
 - Microservices Architecture
 - Transaction Management
@@ -88,9 +88,3 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - Clean Architecture
 - JPA/Hibernate Optimization
 
-
-<h3 align="left">Quote</h3>
-
-<p align="left">
-Building scalable systems with clean architecture and thoughtful design.
-</p>
