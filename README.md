@@ -82,7 +82,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - Microservices Architecture
 - Transaction Management
 - Concurrency Handling
-- Queue Based Systems
 - System Design
 - REST APIs
 - Clean Architecture
