@@ -1,8 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm Shroyash Shrestha</h1>
+<h1 align="center">Hi, I'm Shroyash Shrestha</h1>
 
 <h3 align="center">
-BCA Student | Java Backend Developer | Spring Boot | Spring Security | REST APIs | Microservices
+BCA Student | Java Backend Developer | Spring Boot | Spring Security | REST APIs | System Design
 </h3>
 
 <img align="right" alt="coding" width="400"
@@ -16,14 +15,19 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
 
-- Currently building scalable backend systems
-- Learning advanced system design & distributed systems
-- Interested in backend architecture, concurrency & clean code
-- 📫 Reach me at: **shroyash35@gmail.com**
+* BCA student focused on Java Backend Development
+* Building backend applications using Java and Spring Boot
+* Interested in Spring Security, JWT, Authentication and Authorization
+* Working with MySQL, PostgreSQL, JPA and Hibernate
+* Exploring Redis, Kafka, Microservices and Distributed Systems
+* Learning System Design, Concurrency and Backend Performance
+* Interested in Docker, CI/CD and Cloud Deployment
+* I enjoy building real-world systems and understanding how they work internally
+* Reach me at: **[shroyash35@gmail.com](mailto:shroyash35@gmail.com)**
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 
@@ -43,47 +47,184 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
        width="40" />
 </a>
 
+<a href="https://github.com/shroyash" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="github"
+       height="30"
+       width="40" />
+</a>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
+
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">HTML</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">CSS</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">Bootstrap</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/><br/><sub style="color:white;">Tailwind</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/><sub style="color:white;">JavaScript</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">React</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">Next.js</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/><br/><sub style="color:white;">Redux</sub></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+      <br/><sub>Java</sub>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+      <br/><sub>Spring Boot</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40"/>
+      <br/><sub>Spring Security</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
+      <br/><sub>Hibernate</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+      <br/><sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+      <br/><sub>PostgreSQL</sub>
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/><br/><sub style="color:white;">TypeScript</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/><sub style="color:white;">Java</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/><sub style="color:white;">Spring Boot</sub></td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="40" height="40"/><br/><sub style="color:white;">Spring Security</sub></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" width="40" height="40"/><br/><sub style="color:white;">Spring Cloud</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">MySQL</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br/><sub style="color:white;">PostgreSQL</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br/><sub style="color:white;">C</sub></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
+      <br/><sub>Redis</sub>
+    </td>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
+      <br/><sub>Kafka</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+      <br/><sub>Docker</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+      <br/><sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+      <br/><sub>Linux</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
+      <br/><sub>Postman</sub>
+    </td>
   </tr>
+
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br/><sub style="color:white;">Docker</sub></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/><br/><sub style="color:white;">Kafka</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/><br/><sub style="color:white;">Redis</sub></td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
+      <br/><sub>Maven</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+      <br/><sub>Flutter</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+      <br/><sub>Python</sub>
+    </td>
   </tr>
 </table>
+
 ---
 
-<h3 align="left">Backend Interests</h3>
+<h3 align="left">Featured Projects</h3>
 
-- Microservices Architecture
-- Transaction Management
-- Concurrency Handling
-- System Design
-- REST APIs
-- Clean Architecture
-- JPA/Hibernate Optimization
+### Healthcare Management System
 
+A production-oriented Java/Spring Boot microservices system focused on real-world backend engineering challenges.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, Kafka, Redis, PostgreSQL, Docker
+
+**Key Engineering Concepts:**
+
+* Microservices Architecture
+* JWT Authentication with RS256
+* Role-Based Authorization
+* Kafka-based Asynchronous Communication
+* Redis Caching
+* PostgreSQL
+* Optimistic Locking and Concurrency Control
+* WebSocket / WebRTC
+* Dockerized Services
+* RESTful APIs
+
+[View Healthcare System](https://github.com/shroyash/healthcare-system)
+
+---
+
+### CollegeBridge
+
+A multi-tenant college communication platform connecting students, teachers and administrators.
+
+**Tech Stack:** Java, Spring Boot, Spring Security, MySQL, Redis, Flutter
+
+**Key Features:**
+
+* Multi-Tenant Architecture
+* JWT Authentication
+* Role-Based Authorization
+* Student and Teacher Management
+* Class and Subject Management
+* Doubt Discussion System
+* Notifications
+* AI-Assisted Administrative Workflows
+
+> CollegeBridge is currently being developed as a potential product, so the complete backend implementation is kept private.
+
+---
+
+<h3 align="left">Backend Engineering Interests</h3>
+
+* Core Java and Object-Oriented Programming
+* REST API Design
+* Authentication and Authorization
+* Database Design and Optimization
+* Transaction Management
+* Concurrency and Multithreading
+* Spring Boot and Spring Security
+* JPA / Hibernate Optimization
+* Microservices Architecture
+* Event-Driven Architecture
+* Redis and Caching
+* Kafka and Asynchronous Processing
+* System Design
+* Distributed Systems
+* Containerization and Deployment
+
+---
+
+<h3 align="left">Currently Learning</h3>
+
+* Advanced Java and Concurrency
+* System Design
+* Distributed Systems
+* Spring Boot Internals
+* Database Performance Optimization
+* AWS and Cloud Deployment
+* Production-Grade Backend Engineering
+
+---
+
+<h3 align="left">Career Goal</h3>
+
+I'm looking for opportunities to grow as a Java Backend Developer and contribute to real-world systems while continuously improving my skills in backend architecture, distributed systems and scalable application development.
+
+---
+
+<h3 align="left">Engineering Philosophy</h3>
+
+> Building systems is not just about making them work.
+> I enjoy understanding why they work, how they scale, and how they fail.
+
+---
+
+<p align="center">
+  <b>Building. Learning. Improving.</b>
+</p>
