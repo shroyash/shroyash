@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shroyash Shrestha</h1>
 
 <h3 align="center">
-Backend Engineer focused on Java, Spring Boot, Microservices & System Design
+BCA Student | Java Backend Developer | Spring Boot | Spring Security | REST APIs | Microservices
 </h3>
 
 <img align="right" alt="coding" width="400"
