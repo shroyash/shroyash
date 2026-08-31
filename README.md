@@ -178,41 +178,6 @@ A multi-tenant college communication platform connecting students, teachers and 
 
 > CollegeBridge is currently being developed as a potential product, so the complete backend implementation is kept private.
 
----
-
-<h3 align="left">Backend Engineering Interests</h3>
-
-* Core Java and Object-Oriented Programming
-* REST API Design
-* Authentication and Authorization
-* Database Design and Optimization
-* Transaction Management
-* Concurrency and Multithreading
-* Spring Boot and Spring Security
-* JPA / Hibernate Optimization
-* Microservices Architecture
-* Event-Driven Architecture
-* Redis and Caching
-* Kafka and Asynchronous Processing
-* System Design
-* Distributed Systems
-* Containerization and Deployment
-
----
-
-<h3 align="left">Currently Learning</h3>
-
-* Advanced Java and Concurrency
-* System Design
-* Distributed Systems
-* Spring Boot Internals
-* Database Performance Optimization
-* AWS and Cloud Deployment
-* Production-Grade Backend Engineering
-
----
-
-<h3 align="left">Career Goal</h3>
 
 I'm looking for opportunities to grow as a Java Backend Developer and contribute to real-world systems while continuously improving my skills in backend architecture, distributed systems and scalable application development.
 
