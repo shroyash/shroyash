@@ -174,7 +174,7 @@ A multi-tenant college communication platform connecting students, teachers and 
 * Class and Subject Management
 * Doubt Discussion System
 * Notifications
-* AI-Assisted Administrative Workflows
+* AI Assisted Administrative Workflows
 
 > CollegeBridge is currently being developed as a potential product, so the complete backend implementation is kept private.
 
