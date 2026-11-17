@@ -157,7 +157,7 @@ A multi-tenant college communication platform designed to connect students, teac
 - Notifications
 - AI-Assisted Administrative Workflows
 
-**Source Code:** [View CollegeBridge Backend](https://github.com/shroyash/CollegeBridge)
+**Source Code:** [View CollegeBridge Backend](https://github.com/shroyash/college-bridge)
 
 The backend is open source, allowing developers to explore the implementation, architecture, and engineering decisions behind the project.
 
